@@ -75,6 +75,12 @@ DateTime::Format::Builder.
 
 All I had to do was write a couple of very simple regular expressions!
 
+=head1 SEE ALSO
+
+L<DateTime>
+
+L<DateTime::Format::Builder>
+
 =head1 LICENSE AND COPYRIGHT
 
 Copyright 2011 Tom Wey.
