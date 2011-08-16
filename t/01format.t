@@ -7,12 +7,12 @@ use DateTime::Format::Exif;
 my $class = 'DateTime::Format::Exif';
 
 my $dt = DateTime->new(
-    year   => 2011,
-    month  => 8,
-    day    => 12,
-    hour   => 11,
-    minute => 31,
-    second => 00,
+    year      => 2011,
+    month     => 8,
+    day       => 12,
+    hour      => 11,
+    minute    => 31,
+    second    => 00,
     time_zone => 'UTC',
 );
 

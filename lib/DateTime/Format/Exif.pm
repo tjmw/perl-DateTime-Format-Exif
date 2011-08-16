@@ -18,7 +18,6 @@ use DateTime::Format::Builder
     }
 );
 
-
 =head1 NAME
 
 DateTime::Format::Exif

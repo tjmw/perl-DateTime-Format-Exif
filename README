@@ -1,7 +1,6 @@
 DateTime-Format-Exif
 
-This module handles formatting and parsing of comma separated dates and times
-as supported by Exif cameras.
+This module handles formatting and parsing of Exif format dates and times.
 
 E.g. 2011:08:14 11:13:25
 
